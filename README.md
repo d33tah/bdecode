@@ -1,3 +1,6 @@
+bdecode
+=======
+
 A library for decoding of bencoded files (part of BitTorrent protocol).
 Written in pure Python, should work with Python 3.
 
